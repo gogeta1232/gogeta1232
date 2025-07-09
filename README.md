@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔧 Currently building: A Discord bot & story-driven aesthetic edits  
+- 🔧 Currently building: Discord bots & story-driven aesthetic edits  
 - 📚 Deep-diving into: After Effects, Node.js, and Chemistry  
 - 🧠 Mission: Crack JEE Advanced | Transform my body | Build unshakable discipline  
 - 🌀 Passionate about blending tech with storytelling — both on-screen and in code  
@@ -44,15 +44,7 @@
   <img src="https://img.shields.io/badge/-After%20Effects-9999ff?style=flat-square&logo=adobe-after-effects&logoColor=white" />
 </p>
 
----
 
-### 🐍 GitHub Activity Snake
-
-<p align="center">
-  <img src="https://github.com/lakshya-code/lakshya-code/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
 
 ### 📬 Connect with Me
 
