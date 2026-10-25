@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="224" viewBox="0 0 600 224" role="img" aria-label="BOLT DOCS — A clearer way into the commands.">
+<title>BOLT DOCS — A clearer way into the commands.</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+
+<rect x="9" y="9" width="591" height="215" fill="#141519"/>
+<rect x="2" y="2" width="587" height="211" fill="#f3f1e9" stroke="#141519" stroke-width="4"/>
+<rect x="2" y="2" width="587" height="42" fill="#364cff"/>
+<text class="mono" x="24" y="29" fill="#f3f1e9" font-size="17" font-weight="700">WEB / REACT</text>
+<text x="24" y="116" fill="#141519" font-size="55" font-weight="900" letter-spacing="-2">BOLT DOCS</text>
+<text x="25" y="154" fill="#141519" font-size="21">A clearer way into the commands.</text>
+<path d="M25 180 H562" stroke="#141519" stroke-width="2"/>
+<text class="mono" x="25" y="201" fill="#141519" font-size="14">REACT + VITE + TYPESCRIPT</text>
+<path d="M531 75 H561 V105 M560 76 L526 110" stroke="#141519" stroke-width="5" fill="none"/>
+</svg>

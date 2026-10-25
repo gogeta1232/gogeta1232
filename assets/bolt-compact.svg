@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="165" viewBox="0 0 400 165" role="img" aria-label="BOLT-OS">
+<title>BOLT-OS</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+
+<rect x="8" y="8" width="392" height="157" fill="#141519"/>
+<rect x="2" y="2" width="387" height="151" fill="#f3f1e9" stroke="#141519" stroke-width="4"/>
+<rect x="2" y="2" width="387" height="24" fill="#364cff"/>
+<text x="20" y="105" fill="#141519" font-size="59" font-weight="900" letter-spacing="-2">BOLT-OS</text>
+<path d="M21 127 H367" stroke="#141519" stroke-width="3"/>
+</svg>
