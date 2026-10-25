@@ -1,0 +1,27 @@
+{
+  "frames": 80,
+  "duration_ms": 10000,
+  "gif_bytes": 511080,
+  "changed_pixels_by_region": {
+    "name": 1689,
+    "sparkle": 88,
+    "lamp": 1518,
+    "skyline": 446,
+    "headphone_notes": 1086,
+    "chair": 8803
+  },
+  "lamp_mean_range": [
+    105.67479270315091,
+    123.32587064676616
+  ],
+  "name_highlight_mean_increase": {
+    "old": 3.0730229591836733,
+    "new": 5.960251600924558
+  },
+  "current_tool_icons": 8,
+  "project_typescript_icon": true,
+  "project_labels_decorated": true,
+  "premiere_removed": true,
+  "future_public_project_check": true,
+  "referenced_assets": 25
+}

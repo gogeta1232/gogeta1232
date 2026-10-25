@@ -1,0 +1,29 @@
+{
+  "header": {
+    "frames": 64,
+    "duration_ms": 8000,
+    "size": [
+      1024,
+      356
+    ],
+    "gif_bytes": 192157,
+    "name_mask_pixels": 9350,
+    "lamp_mask_pixels": 1146
+  },
+  "effects": [
+    "Ember lettering highlight sweep",
+    "slow star twinkles",
+    "warm lamp breathing",
+    "editor timeline playhead",
+    "code caret",
+    "small mug steam"
+  ],
+  "sprites": [
+    "robot-idle-v2",
+    "clapper-v2",
+    "ember-flame-v2"
+  ],
+  "sprite_logical_size": 32,
+  "framed_brand_icons": 9,
+  "publishing": "Local draft only; user approval is required."
+}

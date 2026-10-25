@@ -1,0 +1,26 @@
+{
+  "frames": 80,
+  "duration_ms": 10000,
+  "size": [
+    1024,
+    356
+  ],
+  "bytes": 511080,
+  "skyline_window_groups": 24,
+  "chair_sway_degrees": 1.8,
+  "lamp_minimum_level": 0.43,
+  "effects": [
+    "strong name sheen",
+    "finishing sparkle",
+    "lamp dim/bright cycle",
+    "staggered skyline window lights",
+    "rising music notes",
+    "chair sway",
+    "editor playhead",
+    "code caret",
+    "stars",
+    "steam"
+  ],
+  "palette_colors": 192,
+  "publishing": "Local only; explicit approval required."
+}

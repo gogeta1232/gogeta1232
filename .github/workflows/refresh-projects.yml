@@ -1,0 +1,37 @@
+name: Refresh projects
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-project-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'gogeta1232/gogeta1232'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Refresh public projects
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_projects.py
+      - name: Save changed project list
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md
+          git commit -m 'Refresh public project list'
+          git push origin "HEAD:$DEFAULT_BRANCH"

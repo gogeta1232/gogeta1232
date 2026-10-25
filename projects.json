@@ -1,0 +1,20 @@
+{
+  "owner": "gogeta1232",
+  "auto_discover": true,
+  "max_projects": 6,
+  "featured": ["Bolt-OS"],
+  "exclude": ["gogeta1232", "bolt-docs"],
+  "language_icons": {
+    "TypeScript": "assets/dark-profile/icons/typescript.svg",
+    "JavaScript": "assets/dark-profile/icons/javascript.svg",
+    "HTML": "assets/dark-profile/icons/html5.svg",
+    "CSS": "assets/dark-profile/icons/css3.svg"
+  },
+  "overrides": {
+    "Bolt-OS": {
+      "description": "Discord moderation with custom permissions, cases, and server logs.",
+      "badge": {"src": "assets/pixel-profile/project-bolt-label-v3.svg", "width": 122, "height": 32},
+      "links": [{"label": "Docs", "url": "https://boltdoc.vercel.app/", "badge": {"src": "assets/pixel-profile/project-docs-label-v3.svg", "width": 85, "height": 32}}]
+    }
+  }
+}
