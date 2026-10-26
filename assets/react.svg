@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="111" height="43" viewBox="0 0 111 43" role="img" aria-label="React">
-<title>React</title>
-<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
-
-<rect x="3" y="3" width="108" height="40" fill="#141519"/>
-<rect x="1" y="1" width="106" height="37" fill="#f3f1e9" stroke="#141519" stroke-width="2"/>
-<rect x="1" y="1" width="38" height="37" fill="#087ea4" stroke="#141519" stroke-width="2"/>
-<text x="20" y="25" text-anchor="middle" fill="white" font-size="15" font-weight="700">R</text>
-<text x="49" y="25" fill="#141519" font-size="14" font-weight="700">React</text></svg>
