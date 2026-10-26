@@ -14,11 +14,18 @@ Earlier source masters and generation records are retained for provenance. The
 small robot, clapperboard, and flame GIFs use the generated v2 sprite atlas with
 fixed shared bounds and retained static files.
 
-The live README embeds the actual GIFs directly with img tags. It does not use
-picture/source rules that could substitute a PNG or SVG. The star divider is
-pixel-divider-v4.gif, rebuilt with `python scripts/build_gif_divider.py`; the
-earlier animated SVG remains editable source. GitHub's account-level Autoplay
-animated images preference may still pause GIF playback for an individual viewer.
+The live README uses lossless animated WebP img tags, following the animated
+WebP embed in https://github.com/royalrizen/royalrizen/blob/main/README.md.
+GitHub's rendered markup marks GIFs with data-animated-image for playback
+controls; the reference WebP is an ordinary image without that marker. This is
+observed platform behavior, not a permanent guarantee about GitHub's renderer.
+No custom player or static picture/source substitution is used.
+
+Rebuild all five WebP animations with `python scripts/build_animated_webp.py`.
+It verifies every decoded frame against its GIF master and preserves exact
+frame timing and infinite looping; animated-webp-qa.json records the results.
+The star divider GIF master can be rebuilt with
+`python scripts/build_gif_divider.py`. Earlier SVG and static files remain.
 
 The original tool and social marks are preserved from Devicon and Simple Icons.
 Their sources and licenses are in ../dark-profile. Pixel frames and labels use

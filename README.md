@@ -1,6 +1,6 @@
-<p><img src="assets/pixel-profile/ember-studio-loop-v3.gif" width="100%" alt="Ember — an animated pixel-art studio with shimmering lettering, night-time stars, coding and video editing monitors."></p>
+<p><img src="assets/pixel-profile/ember-studio-loop-v3.webp" width="100%" alt="Ember — an animated pixel-art studio with shimmering lettering, night-time stars, coding and video editing monitors."></p>
 
-<img src="assets/pixel-profile/ember-flame-v2.gif" width="24" height="24" alt=""> I'm Ember. I build Discord bots and web interfaces, mostly with TypeScript and React.
+<img src="assets/pixel-profile/ember-flame-v2.webp" width="24" height="24" alt=""> I'm Ember. I build Discord bots and web interfaces, mostly with TypeScript and React.
 
 <p>
   <a href="https://www.typescriptlang.org/"><img src="assets/pixel-profile/tool-typescript-v2.svg" width="48" height="48" alt="TypeScript" title="TypeScript"></a>
@@ -13,15 +13,15 @@
   <a href="https://www.adobe.com/products/aftereffects.html"><img src="assets/pixel-profile/tool-aftereffects-v2.svg" width="48" height="48" alt="After Effects" title="After Effects"></a>
 </p>
 
-### <img src="assets/pixel-profile/robot-idle-v2.gif" width="28" height="28" alt=""> <img src="assets/pixel-profile/work-title.svg" width="220" height="24" alt="Selected work">
+### <img src="assets/pixel-profile/robot-idle-v2.webp" width="28" height="28" alt=""> <img src="assets/pixel-profile/work-title.svg" width="220" height="24" alt="Selected work">
 
 <!-- PROJECTS:START -->
 <a href="https://github.com/gogeta1232/Bolt-OS"><img src="assets/pixel-profile/project-bolt-label-v3.svg" width="122" height="32" alt="Bolt-OS" title="Bolt-OS"></a> <img src="assets/dark-profile/icons/typescript.svg" width="26" height="26" alt="TypeScript" title="TypeScript"> <a href="https://boltdoc.vercel.app/"><img src="assets/pixel-profile/project-docs-label-v3.svg" width="85" height="32" alt="Docs" title="Docs"></a><br>Discord moderation with custom permissions, cases, and server logs.
 <!-- PROJECTS:END -->
 
-<p><img src="assets/pixel-profile/pixel-divider-v4.gif" width="100%" height="24" alt=""></p>
+<p><img src="assets/pixel-profile/pixel-divider-v4.webp" width="100%" height="24" alt=""></p>
 
-### <img src="assets/pixel-profile/clapper-v2.gif" width="28" height="28" alt=""> <img src="assets/pixel-profile/edit-title.svg" width="193" height="24" alt="Video edits">
+### <img src="assets/pixel-profile/clapper-v2.webp" width="28" height="28" alt=""> <img src="assets/pixel-profile/edit-title.svg" width="193" height="24" alt="Video edits">
 
 I make movie and anime edits in After Effects.
 

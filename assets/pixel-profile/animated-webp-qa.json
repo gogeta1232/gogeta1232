@@ -1,0 +1,52 @@
+[
+  {
+    "file": "assets/pixel-profile/ember-studio-loop-v3.webp",
+    "source": "assets/pixel-profile/ember-studio-loop-v3.gif",
+    "frames": 80,
+    "duration_ms": 10000,
+    "bytes": 846328,
+    "lossless_frame_match": true,
+    "timing_match": true,
+    "infinite_loop": true
+  },
+  {
+    "file": "assets/pixel-profile/ember-flame-v2.webp",
+    "source": "assets/pixel-profile/ember-flame-v2.gif",
+    "frames": 4,
+    "duration_ms": 1120,
+    "bytes": 2446,
+    "lossless_frame_match": true,
+    "timing_match": true,
+    "infinite_loop": true
+  },
+  {
+    "file": "assets/pixel-profile/robot-idle-v2.webp",
+    "source": "assets/pixel-profile/robot-idle-v2.gif",
+    "frames": 4,
+    "duration_ms": 3780,
+    "bytes": 2886,
+    "lossless_frame_match": true,
+    "timing_match": true,
+    "infinite_loop": true
+  },
+  {
+    "file": "assets/pixel-profile/pixel-divider-v4.webp",
+    "source": "assets/pixel-profile/pixel-divider-v4.gif",
+    "frames": 13,
+    "duration_ms": 4800,
+    "bytes": 1138,
+    "lossless_frame_match": true,
+    "timing_match": true,
+    "infinite_loop": true
+  },
+  {
+    "file": "assets/pixel-profile/clapper-v2.webp",
+    "source": "assets/pixel-profile/clapper-v2.gif",
+    "frames": 4,
+    "duration_ms": 2540,
+    "bytes": 2684,
+    "lossless_frame_match": true,
+    "timing_match": true,
+    "infinite_loop": true
+  }
+]

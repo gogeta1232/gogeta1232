@@ -24,14 +24,15 @@ options never publish. Hand-authored content outside the markers is preserved.
 
 ## Animation review
 
-The current v3 header GIF contains 80 distinct frames over ten seconds. The live
-README uses direct GIF img tags for the header, flame, robot, clapperboard, and
-star divider. Earlier picture/source wrappers could select static images when
-reduced motion was requested; those wrappers have been removed at the user's
-request. Static alternatives remain available as separate files.
+The current v3 header contains 80 distinct frames over ten seconds. The live
+README uses direct lossless animated WebP img tags for the header, flame, robot,
+clapperboard, and star divider, following royalrizen's animated WebP example.
+GitHub's rendered markup leaves these as plain images instead of tagging them
+as GIFs for playback controls. No custom player is embedded. Platform rendering
+may change. Earlier picture/source wrappers that selected still images remain
+removed; static alternatives and GIF masters are retained as separate files.
 
-`assets/pixel-profile/direct-gif-qa-v4.json` records decoded frame counts and
-durations for all five GIFs. The divider can be rebuilt with
-`python scripts/build_gif_divider.py`. GitHub's per-viewer Accessibility setting
-for Autoplay animated images can still pause motion. File and HTML verification
-does not establish playback in a particular viewer's browser.
+`python scripts/build_animated_webp.py` rebuilds the five WebP files and verifies
+lossless decoded frames, identical timing, and infinite loops against the GIFs.
+`assets/pixel-profile/animated-webp-qa.json` records those results. File and HTML
+verification does not establish playback in a particular viewer's browser.
